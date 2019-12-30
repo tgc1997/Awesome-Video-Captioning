@@ -167,7 +167,7 @@ ICCV, 2019.[[website]](https://vatex.org/main/index.html#)
 
 
 6. **POS**: [Joint Syntax Representation Learning and Visual Cue Translation for Video Captioning](http://openaccess.thecvf.com/content_ICCV_2019/papers/Hou_Joint_Syntax_Representation_Learning_and_Visual_Cue_Translation_for_Video_ICCV_2019_paper.pdf)<br>
-* Jingyi Hou, Xinxiao Wu, Wentian Zhao, Jiebo Luo, Yunde Jia*<br>
+*Jingyi Hou, Xinxiao Wu, Wentian Zhao, Jiebo Luo, Yunde Jia*<br>
 ICCV, 2019.
 
 7. **POS-CG**: [Controllable Video Captioning With POS Sequence Guidance Based on Gated Fusion Network](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Controllable_Video_Captioning_With_POS_Sequence_Guidance_Based_on_Gated_ICCV_2019_paper.pdf)<br>
@@ -194,7 +194,7 @@ AAAI, 2019.
 *Xin Wang, Jiawei Wu, Da Zhang, Yu Su, William Yang Wang*<br>
 AAAI, 2019.[[code]](https://github.com/eric-xw/Zero-Shot-Video-Captioning)
 
-13. [Video Interactive Captioning with Human Prompts](https://www.ijcai.org/proceedings/2019/0135.pdf)<br>
+13. **VIC**: [Video Interactive Captioning with Human Prompts](https://www.ijcai.org/proceedings/2019/0135.pdf)<br>
 *Aming Wu, Yahong Han and Yi Yang*<br>
 IJCAI, 2019.[[code]](https://github.com/ViCap01/ViCap)
 
