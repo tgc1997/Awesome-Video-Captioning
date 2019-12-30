@@ -85,45 +85,60 @@ ICCV, 2017.
 *Dotan Kaufman, Gil Levi, Tal Hassner, Lior Wolf*<br>
 ICCV, 2017.[[tf-code]](https://github.com/dot27/temporal-tessellation)
 
+12. **MTEG**: [Multi-Task Video Captioning with Video and Entailment Generation](https://arxiv.org/pdf/1704.07489)<br>
+*Ramakanth Pasunuru, Mohit Bansal*<br>
+ACL, 2017.
+
+13. **MAM-RNN**: [MAM-RNN: Multi-level Attention Model Based RNN for Video Captioning](https://www.ijcai.org/proceedings/2017/0307.pdf)<br>
+*Xuelong Li, Bin Zhao, Xiaoqiang Lu*<br>
+IJCAI, 2017.
+
+14. **suo**: [Hierarchical LSTM with Adjusted Temporal Attention for Video Captioning](https://www.ijcai.org/proceedings/2017/0381.pdf)<br>
+*Jingkuan Song, Lianli Gao, Zhao Guo, Wu Liu, Dongxiang Zhang, Heng Tao Shen*<br>
+IJCAI, 2017.
+
 ## 2018
-1. **suo**: []()<br>
-*author*<br>
-conf, year.[[code]]() [[web]](link)
+1. **Review**: [Study of Video Captioning Problem](https://www.cs.princeton.edu/courses/archive/spring18/cos598B/public/projects/LiteratureReview/COS598B_spr2018_VideoCaptioning.pdf)<br>
+*Jiaqi Su*<br>
+2018.
 
-2. **suo**: []()<br>
-*author*<br>
-conf, year.[[code]]() [[web]](link)
-
-
-3. **suo**: []()<br>
-*author*<br>
-conf, year.[[code]]() [[web]](link)
+2. [Fine-grained Video Captioning for Sports Narrative](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yu_Fine-Grained_Video_Captioning_CVPR_2018_paper.pdf)<br>
+*Huanyu Yu, Shuo Cheng, Bingbing Ni, Minsi Wang, Jian Zhang, Xiaokang Yang*<br>
+CVPR, 2018.
 
 
-4. **suo**: []()<br>
-*author*<br>
-conf, year.[[code]]() [[web]](link)
+3. **TSA-ED**: [Interpretable Video Captioning via Trajectory Structured Localization](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wu_Interpretable_Video_Captioning_CVPR_2018_paper.pdf)<br>
+*Xian Wu, Guanbin Li Qingxing Cao, Qingge Ji, Liang Lin*<br>
+CVPR, 2018.
 
 
-5. **suo**: []()<br>
-*author*<br>
-conf, year.[[code]]() [[web]](link)
+4. **RecNet**: [Reconstruction Network for Video Captioning](https://www.zpascal.net/cvpr2018/Wang_Reconstruction_Network_for_CVPR_2018_paper.pdf)<br>
+*Bairui Wang, Lin Ma, Wei Zhang, Wei Liu*<br>
+CVPR, 2018.[[pytorch-code]](https://github.com/hobincar/reconstruction-network-for-video-captioning)
 
 
-6. **suo**: []()<br>
-*author*<br>
-conf, year.[[code]]() [[web]](link)
+5. **M3**: [M3: Multimodal Memory Modelling for Video Captioning](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_M3_Multimodal_Memory_CVPR_2018_paper.pdf)<br>
+*Junbo Wang, Wei Wang, Yan Huang, Liang Wang, Tieniu Tan*<br>
+CVPR, 2018.
 
 
-7. **suo**: []()<br>
-*author*<br>
-conf, year.[[code]]() [[web]](link)
+6. **PickNet**: [Less Is More: Picking Informative Frames for Video Captioning](https://eccv2018.org/openaccess/content_ECCV_2018/papers/Yangyu_Chen_Less_is_More_ECCV_2018_paper.pdf)<br>
+*Yangyu Chen, Shuhui Wang, Weigang Zhang, Qingming Huang*<br>
+ECCV, 2018.
 
 
-8. **suo**: []()<br>
-*author*<br>
-conf, year.[[code]]() [[web]](link)
+7. **ECO-SCN**: [ECO: Efficient Convolutional Network for Online Video Understanding](http://openaccess.thecvf.com/content_ECCV_2018/papers/Mohammadreza_Zolfaghari_ECO_Efficient_Convolutional_ECCV_2018_paper.pdf)<br>
+*Mohammadreza Zolfaghari, Kamaljeet Singh, Thomas Brox*<br>
+ECCV, 2018.[[caffe-code]](https://github.com/mzolfaghari/ECO-efficient-video-understanding) [[pytorch-code]](https://github.com/zhang-can/ECO-pytorch) 
 
+
+8. **SibNet**: [SibNet: Sibling Convolutional Encoder for Video Captioning](https://cse.buffalo.edu/~jsyuan/papers/2018/SibNet__Sibling_Convolutional_Encoder_for_Video_Captioning.pdf)<br>
+*Sheng liu, Zhou Ren, Junsong Yuan*<br>
+ACM MM, 2018.
+
+9. **TubeNet**: [Video Captioning with Tube Features](https://www.ijcai.org/proceedings/2018/0164.pdf)<br>
+*Bin Zhao, Xuelong Li, Xiaoqiang Lu*<br>
+IJCAI, 2018.
 
 
 ## 2019
