@@ -65,7 +65,7 @@ CVPR, 2017.[[tf-code]](https://gitlab.com/fodrh1201/CT-SAN/tree/master)
 *Vasili Ramanishka, Abir Das, Jianming Zhang, Kate Saenko*<br>
 CVPR, 2017.[[tf-code]](https://github.com/VisionLearningGroup/caption-guided-saliency)
 
-7. **BA**: [Hierarchical Boundary-Aware Neural Encoder for Video Captioning](http://openaccess.thecvf.com/content_cvpr_2017/papers/Baraldi_Hierarchical_Boundary-Aware_Neural_CVPR_2017_paper.pdf)<br>
+7. **HBA**: [Hierarchical Boundary-Aware Neural Encoder for Video Captioning](http://openaccess.thecvf.com/content_cvpr_2017/papers/Baraldi_Hierarchical_Boundary-Aware_Neural_CVPR_2017_paper.pdf)<br>
 *Lorenzo Baraldi, Costantino Grana, Rita Cucchiara*<br>
 CVPR, 2017.[[pytorch-code]](https://github.com/Yugnaynehc/banet)
 
@@ -93,14 +93,14 @@ ACL, 2017.
 *Xuelong Li, Bin Zhao, Xiaoqiang Lu*<br>
 IJCAI, 2017.
 
-14. **suo**: [Hierarchical LSTM with Adjusted Temporal Attention for Video Captioning](https://www.ijcai.org/proceedings/2017/0381.pdf)<br>
+14. **hLSTMat**: [Hierarchical LSTM with Adjusted Temporal Attention for Video Captioning](https://www.ijcai.org/proceedings/2017/0381.pdf)<br>
 *Jingkuan Song, Lianli Gao, Zhao Guo, Wu Liu, Dongxiang Zhang, Heng Tao Shen*<br>
-IJCAI, 2017.
+IJCAI, 2017.[[theano-code]](https://github.com/zhaoluffy/hLSTMat)
 
 ## 2018
-1. **Review**: [Study of Video Captioning Problem](https://www.cs.princeton.edu/courses/archive/spring18/cos598B/public/projects/LiteratureReview/COS598B_spr2018_VideoCaptioning.pdf)<br>
+1. **Survey**: [Study of Video Captioning Problem](https://www.cs.princeton.edu/courses/archive/spring18/cos598B/public/projects/LiteratureReview/COS598B_spr2018_VideoCaptioning.pdf)<br>
 *Jiaqi Su*<br>
-2018.
+cos598B, 2018.
 
 2. [Fine-grained Video Captioning for Sports Narrative](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yu_Fine-Grained_Video_Captioning_CVPR_2018_paper.pdf)<br>
 *Huanyu Yu, Shuo Cheng, Bingbing Ni, Minsi Wang, Jian Zhang, Xiaokang Yang*<br>
@@ -142,50 +142,61 @@ IJCAI, 2018.
 
 
 ## 2019
-1. **suo**: []()<br>
-*author*<br>
-conf, year.[[code]]() [[web]](link)
+1. **Survey**: [Video Description: A Survey of Methods, Datasets and Evaluation Metrics](https://arxiv.org/pdf/1806.00186)<br>
+*Nayyer Aafaq, Ajmal Mian, Wei Liu, Syed Zulqarnain Gilani, Mubarak Shah*<br>
+ACM Computing Surveys, 2019.
 
-2. **suo**: []()<br>
-*author*<br>
-conf, year.[[code]]() [[web]](link)
-
-
-3. **suo**: []()<br>
-*author*<br>
-conf, year.[[code]]() [[web]](link)
+2. **GRU-EVE**: [Spatio-Temporal Dynamics and Semantic Attribute Enriched Visual Encoding for Video Captioning](https://zpascal.net/cvpr2019/Aafaq_Spatio-Temporal_Dynamics_and_Semantic_Attribute_Enriched_Visual_Encoding_for_Video_CVPR_2019_paper.pdf)<br>
+*Nayyer Aafaq, Naveed Akhtar, Wei Liu, Syed Zulqarnain Gilani, Ajmal Mian*<br>
+CVPR, 2019.
 
 
-4. **suo**: []()<br>
-*author*<br>
-conf, year.[[code]]() [[web]](link)
+3. **MARN**: [Memory-Attended Recurrent Network for Video Captioning](https://arxiv.org/pdf/1905.03966)<br>
+*Wenjie Pei, Jiyuan Zhang, Xiangrong Wang, Lei Ke, Xiaoyong Shen, Yu-Wing Tai*<br>
+CVPR, 2019.
 
 
-5. **suo**: []()<br>
-*author*<br>
-conf, year.[[code]]() [[web]](link)
+4. **OA-BTG**: [Object-aware Aggregation with Bidirectional Temporal Graph for Video Captioning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Object-Aware_Aggregation_With_Bidirectional_Temporal_Graph_for_Video_Captioning_CVPR_2019_paper.pdf)<br>
+*Junchao Zhang, Yuxin Peng*<br>
+CVPR, 2019.
 
 
-6. **suo**: []()<br>
-*author*<br>
-conf, year.[[code]]() [[web]](link)
+5. **VATEX**: [VaTeX: A Large-Scale, High-Quality Multilingual Dataset for Video-and-Language Research](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_VaTeX_A_Large-Scale_High-Quality_Multilingual_Dataset_for_Video-and-Language_Research_ICCV_2019_paper.pdf)<br>
+*Xin Wang, Jiawei Wu, Junkun Chen, Lei Li, Yuan-Fang Wang, William Yang Wang*<br>
+ICCV, 2019.[[website]](https://vatex.org/main/index.html#)
 
 
-7. **suo**: []()<br>
-*author*<br>
-conf, year.[[code]]() [[web]](link)
+6. **POS**: [Joint Syntax Representation Learning and Visual Cue Translation for Video Captioning](http://openaccess.thecvf.com/content_ICCV_2019/papers/Hou_Joint_Syntax_Representation_Learning_and_Visual_Cue_Translation_for_Video_ICCV_2019_paper.pdf)<br>
+* Jingyi Hou, Xinxiao Wu, Wentian Zhao, Jiebo Luo, Yunde Jia*<br>
+ICCV, 2019.
 
-8. **suo**: []()<br>
-*author*<br>
-conf, year.[[code]]() [[web]](link)
+7. **POS-CG**: [Controllable Video Captioning With POS Sequence Guidance Based on Gated Fusion Network](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Controllable_Video_Captioning_With_POS_Sequence_Guidance_Based_on_Gated_ICCV_2019_paper.pdf)<br>
+*Bairui Wang, Lin Ma, Wei Zhang, Wenhao Jiang, Jingwen Wang, Wei Liu*<br>
+ICCV, 2019.[[code]](https://github.com/vsislab/Controllable_XGating) 
 
-9. **suo**: []()<br>
-*author*<br>
-conf, year.[[code]]() [[web]](link)
+8. **WIT**: [Watch It Twice: Video Captioning with a Refocused Video Encoder](https://arxiv.org/pdf/1907.12905)<br>
+*Xiangxi Shi, Jianfei Cai, Shafiq Joty, Jiuxiang Gu*<br>
+ACM MM, 2019.
 
-10. **suo**: []()<br>
-*author*<br>
-conf, year.[[code]]() [[web]](link)
+9. **MGSA**: [Motion Guided Spatial Attention for Video Captioning](https://www.aaai.org/ojs/index.php/AAAI/article/view/4829/4702)<br>
+*Shaoxiang Chen and Yu-Gang Jiang*<br>
+AAAI, 2019.
+
+10. **TDConvED**: [Temporal Deformable Convolutional Encoder-Decoder Networks for Video Captioning](https://arxiv.org/pdf/1905.01077)<br>
+*Jingwen Chen, Yingwei Pan, Yehao Li, Ting Yao, Hongyang Chao, Tao Mei*<br>
+AAAI, 2019.
+
+11. **FCVC-CF&IA**: [Fully Convolutional Video Captioning with Coarse-to-Fine and Inherited Attention](https://aaai.org/ojs/index.php/AAAI/article/view/4839)<br>
+*Kuncheng Fang, Lian Zhou, Cheng Jin, Yuejie Zhang,Kangnian Weng,Tao Zhang, Weiguo Fan*<br>
+AAAI, 2019.
+
+12. **TAMoE**: [Learning to Compose Topic-Aware Mixture of Experts for Zero-Shot Video Captioning](https://arxiv.org/pdf/1811.02765)<br>
+*Xin Wang, Jiawei Wu, Da Zhang, Yu Su, William Yang Wang*<br>
+AAAI, 2019.[[code]](https://github.com/eric-xw/Zero-Shot-Video-Captioning)
+
+13. [Video Interactive Captioning with Human Prompts](https://www.ijcai.org/proceedings/2019/0135.pdf)<br>
+*Aming Wu, Yahong Han and Yi Yang*<br>
+IJCAI, 2019.[[code]](https://github.com/ViCap01/ViCap)
 
 ## Dense Captioning
 1. **DenseEvents**: [Dense-Captioning Events in Videos](http://openaccess.thecvf.com/content_ICCV_2017/papers/Krishna_Dense-Captioning_Events_in_ICCV_2017_paper.pdf)<br>
