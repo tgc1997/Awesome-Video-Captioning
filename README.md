@@ -172,7 +172,7 @@ ICCV, 2019.
 
 7. **POS-CG**: [Controllable Video Captioning With POS Sequence Guidance Based on Gated Fusion Network](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Controllable_Video_Captioning_With_POS_Sequence_Guidance_Based_on_Gated_ICCV_2019_paper.pdf)<br>
 *Bairui Wang, Lin Ma, Wei Zhang, Wenhao Jiang, Jingwen Wang, Wei Liu*<br>
-ICCV, 2019.[[code]](https://github.com/vsislab/Controllable_XGating) 
+ICCV, 2019.[[pytorch-code]](https://github.com/vsislab/Controllable_XGating) 
 
 8. **WIT**: [Watch It Twice: Video Captioning with a Refocused Video Encoder](https://arxiv.org/pdf/1907.12905)<br>
 *Xiangxi Shi, Jianfei Cai, Shafiq Joty, Jiuxiang Gu*<br>
@@ -199,43 +199,53 @@ AAAI, 2019.[[code]](https://github.com/eric-xw/Zero-Shot-Video-Captioning)
 IJCAI, 2019.[[code]](https://github.com/ViCap01/ViCap)
 
 ## Dense Captioning
-1. **DenseEvents**: [Dense-Captioning Events in Videos](http://openaccess.thecvf.com/content_ICCV_2017/papers/Krishna_Dense-Captioning_Events_in_ICCV_2017_paper.pdf)<br>
+1. [Dense-Captioning Events in Videos](http://openaccess.thecvf.com/content_ICCV_2017/papers/Krishna_Dense-Captioning_Events_in_ICCV_2017_paper.pdf)<br>
 *Ranjay Krishna, Kenji Hata, Frederic Ren, Li Fei-Fei, Juan Carlos Niebles*<br>
 ICCV, 2017.[[code]](https://github.com/ranjaykrishna/densevid_eval) [[website]](https://cs.stanford.edu/people/ranjaykrishna/densevid/)
 
-2. **suo**: []()<br>
-*author*<br>
-conf, year.[[code]]() [[web]](link)
+2. [End-to-End Dense Video Captioning with Masked Transformer](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_End-to-End_Dense_Video_CVPR_2018_paper.pdf)<br>
+*Luowei Zhou, Yingbo Zhou, Jason J. Corso, Richard Socher, Caiming Xiong*<br>
+CVPR, 2018.[[pytorch-code]](https://github.com/salesforce/densecap)
 
 
-3. **suo**: []()<br>
-*author*<br>
-conf, year.[[code]]() [[web]](link)
+3. [Attend and Interact: Higher-Order Object Interactions for Video Understanding](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0330.pdf)<br>
+*Chih-Yao Ma, Asim Kadav, Iain Melvin, Zsolt Kira, Ghassan AlRegib, and Hans Peter Graf*<br>
+CVPR, 2018.
 
 
-4. **suo**: []()<br>
-*author*<br>
-conf, year.[[code]]() [[web]](link)
+4. [Jointly Localizing and Describing Events for Dense Video Captioning](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Jointly_Localizing_and_CVPR_2018_paper.pdf)<br>
+*Yehao Li, Ting Yao, Yingwei Pan, Hongyang Chao, Tao Mei*<br>
+CVPR, 2018.
 
 
-5. **suo**: []()<br>
-*author*<br>
-conf, year.[[code]]() [[web]](link)
+5. [Bidirectional Attentive Fusion with Context Gating for Dense Video Captioning](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Bidirectional_Attentive_Fusion_CVPR_2018_paper.pdf)<br>
+*Jingwen Wang, Wenhao Jiang, Lin Ma, Wei Liu, Yong Xu*<br>
+CVPR, 2018.[[tf-code]](https://github.com/JaywongWang/DenseVideoCaptioning)
 
 
-6. **suo**: []()<br>
-*author*<br>
-conf, year.[[code]]() [[web]](link)
+6. [Move Forward and Tell: A Progressive Generator of Video Descriptions](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yilei_Xiong_Move_Forward_and_ECCV_2018_paper.pdf)<br>
+*Yilei Xiong, Bo Dai, Dahua Lin*<br>
+ECCV, 2018.
 
 
-7. **suo**: []()<br>
-*author*<br>
-conf, year.[[code]]() [[web]](link)
+7. [Adversarial Inference for Multi-sentence Video Description](http://openaccess.thecvf.com/content_CVPR_2019/papers/Park_Adversarial_Inference_for_Multi-Sentence_Video_Description_CVPR_2019_paper.pdf)<br>
+*Jae Sung Park, Marcus Rohrbach, Trevor Darrell, Anna Rohrbach*<br>
+CVPR, 2019.[[pytorch-code]](https://github.com/jamespark3922/adv-inf)
 
 
-8. **suo**: []()<br>
-*author*<br>
-conf, year.[[code]]() [[web]](link)
+8. [Dense Relational Captioning: Triple-stream Networks for Relationship-based Captioning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_Dense_Relational_Captioning_Triple-Stream_Networks_for_Relationship-Based_Captioning_CVPR_2019_paper.pdf)<br>
+*Dong-Jin Kim, Jinsoo Choi, Tae-Hyun Oh, In So Kweon*<br>
+CVPR, 2019.[[torch-code]](https://github.com/Dong-JinKim/DenseRelationalCaptioning)
+
+
+9. [Streamlined Dense Video Captioning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Mun_Streamlined_Dense_Video_Captioning_CVPR_2019_paper.pdf)<br>
+*Jonghwan Mun, Linjie Yang, Zhou Ren, Ning Xu, Bohyung Han*<br>
+CVPR, 2019.
+
+9. [Watch, Listen and Tell: Multi-Modal Weakly Supervised Dense Event Captioning](http://openaccess.thecvf.com/content_ICCV_2019/papers/Rahman_Watch_Listen_and_Tell_Multi-Modal_Weakly_Supervised_Dense_Event_Captioning_ICCV_2019_paper.pdf)<br>
+*Tanzila Rahman, Bicheng Xu, Leonid Sigal*<br>
+ICCV, 2019.
+
 
 ## Grounded Captioning
 1. **GVD**: [Grounded Video Description](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhou_Grounded_Video_Description_CVPR_2019_paper.pdf)<br>
