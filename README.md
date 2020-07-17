@@ -1,5 +1,5 @@
 # Awesome-Video-Captioning
-A curated list of research papers in Video Captioning(from 2015 to 2019). Link to the code and project website if available.
+A curated list of research papers in Video Captioning(from 2015 to 2020). Link to the code and project website if available.
 
 # Paper List
 ## 2015
@@ -198,6 +198,32 @@ AAAI, 2019.[[code]](https://github.com/eric-xw/Zero-Shot-Video-Captioning)
 *Aming Wu, Yahong Han and Yi Yang*<br>
 IJCAI, 2019.[[code]](https://github.com/ViCap01/ViCap)
 
+
+## 2020
+1. [Spatio-Temporal Graph for Video Captioning with Knowledge Distillation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Pan_Spatio-Temporal_Graph_for_Video_Captioning_With_Knowledge_Distillation_CVPR_2020_paper.pdf)<br>
+*Boxiao Pan, Haoye Cai, De-An Huang, Kuan-Hui Lee, Adrien Gaidon, Ehsan Adeli, Juan Carlos Niebles*<br>
+CVPR, 2020.
+
+2. **SAAT**: [Syntax-Aware Action Targeting for Video Captioning](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zheng_Syntax-Aware_Action_Targeting_for_Video_Captioning_CVPR_2020_paper.pdf)<br>
+*Zheng, Qi and Wang, Chaoyue and Tao, Dacheng*<br>
+CVPR, 2020.[[pytorch-code]](https://github.com/SydCaption/SAAT)
+
+3. **ORG-TRL**: [Object Relational Graph with Teacher-Recommended Learning for Video Captioning](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Object_Relational_Graph_With_Teacher-Recommended_Learning_for_Video_Captioning_CVPR_2020_paper.pdf)<br>
+*Ziqi Zhang, Yaya Shi, Chunfeng Yuan, Bing Li, Peijin Wang, Weiming Hu, Zhengjun Zha*<br>
+CVPR, 2020.
+
+4. **RMN**: [Learning to Discretely Compose Reasoning Module Networks for Video Captioning](https://www.ijcai.org/Proceedings/2020/0104.pdf)<br>
+*Ganchao Tan, Daqing Liu, Meng Wang and Zheng-Jun Zha*<br>
+IJCAI, 2020.[[pytorch-code]](https://github.com/tgc1997/RMN)
+
+5. **SBAT**: [SBAT: Video Captioning with Sparse Boundary-Aware Transformer](https://www.ijcai.org/Proceedings/2020/0088.pdf)<br>
+*Tao Jin, Siyu Huang, Yingming Li, Zhongfei Zhang, Ming Chen*<br>
+IJCAI, 2020.
+
+6. [Joint Commonsense and Relation Reasoning for Image and Video Captioning](https://wuxinxiao.github.io/assets/papers/2020/C-R_reasoning.pdf)<br>
+*Jingyi Hou, Xinxiao Wu, Xiaoxun Zhang, Yayun Qi, Yunde Jia, Jiebo Luo*<br>
+AAAI, 2020.
+
 ## Dense Captioning
 1. [Dense-Captioning Events in Videos](http://openaccess.thecvf.com/content_ICCV_2017/papers/Krishna_Dense-Captioning_Events_in_ICCV_2017_paper.pdf)<br>
 *Ranjay Krishna, Kenji Hata, Frederic Ren, Li Fei-Fei, Juan Carlos Niebles*<br>
@@ -246,6 +272,9 @@ CVPR, 2019.
 *Tanzila Rahman, Bicheng Xu, Leonid Sigal*<br>
 ICCV, 2019.
 
+10. [An Efficient Framework for Dense Video Captioning](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-SuinM.7561.pdf)<br>
+*Maitreya Suin, A. N. Rajagopalan*<br>
+AAAI, 2020.
 
 ## Grounded Captioning
 1. **GVD**: [Grounded Video Description](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhou_Grounded_Video_Description_CVPR_2019_paper.pdf)<br>
