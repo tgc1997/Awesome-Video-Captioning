@@ -1,6 +1,16 @@
 # Awesome-Video-Captioning
 A curated list of research papers in Video Captioning(from 2015 to 2020). Link to the code and project website if available.
 
+# Contents
+- [2015](#2015)
+- [2016](#2016)
+- [2017](#2017)
+- [2018](#2018)
+- [2019](#2019)
+- [2020](#2020)
+- [Dense Captioning](#Dense-Captioning)
+- [Grounded Captioning](#Grounded-Captioning)
+
 # Paper List
 ## 2015
 1. **LSTM-P**: [Translating Videos to Natural Language Using Deep Recurrent Neural Networks](https://www.cs.utexas.edu/users/ml/papers/venugopalan.naacl15.pdf) <br>
@@ -212,19 +222,36 @@ CVPR, 2020.[[pytorch-code]](https://github.com/SydCaption/SAAT)
 *Ziqi Zhang, Yaya Shi, Chunfeng Yuan, Bing Li, Peijin Wang, Weiming Hu, Zhengjun Zha*<br>
 CVPR, 2020.
 
-4. **RMN**: [Learning to Discretely Compose Reasoning Module Networks for Video Captioning](https://www.ijcai.org/Proceedings/2020/0104.pdf)<br>
+4. **PMI-CAP**: [Learning Modality Interaction for Temporal Sentence Localization and Event Captioning in Videos](https://arxiv.org/pdf/2007.14164.pdf)<br>
+*Shaoxiang Chen, Wenhao Jiang, Wei Liu, Yu-Gang Jiang*<br>
+ECCV, 2020.[[pytorch-code]](https://github.com/xuewyang/Fashion_Captioning)
+
+5. **RMN**: [Learning to Discretely Compose Reasoning Module Networks for Video Captioning](https://www.ijcai.org/Proceedings/2020/0104.pdf)<br>
 *Ganchao Tan, Daqing Liu, Meng Wang and Zheng-Jun Zha*<br>
 IJCAI, 2020.[[pytorch-code]](https://github.com/tgc1997/RMN)
 
-5. **SBAT**: [SBAT: Video Captioning with Sparse Boundary-Aware Transformer](https://www.ijcai.org/Proceedings/2020/0088.pdf)<br>
+6. **SBAT**: [SBAT: Video Captioning with Sparse Boundary-Aware Transformer](https://www.ijcai.org/Proceedings/2020/0088.pdf)<br>
 *Tao Jin, Siyu Huang, Yingming Li, Zhongfei Zhang, Ming Chen*<br>
 IJCAI, 2020.
 
-6. [Joint Commonsense and Relation Reasoning for Image and Video Captioning](https://wuxinxiao.github.io/assets/papers/2020/C-R_reasoning.pdf)<br>
+7. [Joint Commonsense and Relation Reasoning for Image and Video Captioning](https://wuxinxiao.github.io/assets/papers/2020/C-R_reasoning.pdf)<br>
 *Jingyi Hou, Xinxiao Wu, Xiaoxun Zhang, Yayun Qi, Yunde Jia, Jiebo Luo*<br>
 AAAI, 2020.
 
-## Dense Captioning
+8. **SMCG**: [Controllable Video Captioning with an Exemplar Sentence](https://dl.acm.org/doi/abs/10.1145/3394171.3413908)<br>
+*Yitian Yuan, Lin Ma, Jingwen Wang, Wenwu Zhu*<br>
+ACM MM, 2020.
+
+9. **Poet**: [Poet: Product-oriented Video Captioner for E-commerce](https://arxiv.org/pdf/2008.06880.pdf)<br>
+*Shengyu Zhang, Ziqi Tan, Jin Yu, Zhou Zhao, Kun Kuang, Jie Liu, Jingren Zhou, Hongxia Yang, Fei Wu*<br>
+ACM MM, 2020.
+
+10. [Learning Semantic Concepts and Temporal Alignment for Narrated Video Procedural Captioning](https://dl.acm.org/doi/abs/10.1145/3394171.3413498)<br>
+*Botian Shi, Lei Ji, Zhendong Niu, Nan Duan, Ming Zhou, Xilin Chen*<br>
+ACM MM, 2020.
+
+
+## Dense-Captioning
 1. [Dense-Captioning Events in Videos](http://openaccess.thecvf.com/content_ICCV_2017/papers/Krishna_Dense-Captioning_Events_in_ICCV_2017_paper.pdf)<br>
 *Ranjay Krishna, Kenji Hata, Frederic Ren, Li Fei-Fei, Juan Carlos Niebles*<br>
 ICCV, 2017.[[code]](https://github.com/ranjaykrishna/densevid_eval) [[website]](https://cs.stanford.edu/people/ranjaykrishna/densevid/)
@@ -276,7 +303,19 @@ ICCV, 2019.
 *Maitreya Suin, A. N. Rajagopalan*<br>
 AAAI, 2020.
 
-## Grounded Captioning
+11. [MART: Memory-Augmented Recurrent Transformer for Coherent Video Paragraph Captioning](https://arxiv.org/pdf/2005.05402.pdf)<br>
+*Jie Lei, Liwei Wang, Yelong Shen, Dong Yu, Tamara L. Berg, Mohit Bansal*<br>
+ACL, 2020. [[pytorch-code]](https://github.com/jayleicn/recurrent-transformer)
+
+12. [Identity-Aware Multi-Sentence Video Description](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660358.pdf)<br>
+*Jae Sung Park, Trevor Darrell, Anna Rohrbach*<br>
+ECCV, 2020.
+
+## Grounded-Captioning
 1. **GVD**: [Grounded Video Description](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhou_Grounded_Video_Description_CVPR_2019_paper.pdf)<br>
 *Luowei Zhou, Yannis Kalantidis, Xinlei Chen, Jason J. Corso, Marcus Rohrbach*<br>
 CVPR, 2019.[[pytorch-code]](https://github.com/facebookresearch/grounded-video-description)
+
+2. [Relational Graph Learning for Grounded Video Description Generation](https://dl.acm.org/doi/abs/10.1145/3394171.3413746)<br>
+*Wenqiao Zhang, Xineric Wang, Siliang Tang, Haizhou Shi, Haochen Shi, Jun Xiao, Yueting Zhuang, Williamyang Wang*<br>
+ACM MM, 2020.
