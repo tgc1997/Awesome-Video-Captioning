@@ -1,5 +1,5 @@
 # Awesome-Video-Captioning
-A curated list of research papers in Video Captioning(from 2015 to 2020). Link to the code and project website if available.
+A curated list of research papers in Video Captioning(from 2015 onward). Link to the code and project website if available.
 
 # Contents
 - [2015](#2015)
@@ -8,6 +8,7 @@ A curated list of research papers in Video Captioning(from 2015 to 2020). Link t
 - [2018](#2018)
 - [2019](#2019)
 - [2020](#2020)
+- [2026](#2026)
 - [Dense Captioning](#Dense-Captioning)
 - [Grounded Captioning](#Grounded-Captioning)
 
@@ -250,6 +251,15 @@ ACM MM, 2020.
 *Botian Shi, Lei Ji, Zhendong Niu, Nan Duan, Ming Zhou, Xilin Chen*<br>
 ACM MM, 2020.
 
+
+## 2026
+1. **VideoChat3**: [VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding](https://arxiv.org/abs/2607.14935)<br>
+*Xinhao Li, Yuhan Zhu, Xiangyu Zeng, Yuhao Dong, Haoning Wu, Zhiqiu Zhang, Yuandong Yang, Changlian Ma, Qingyu Zhang, Yansong Shi, Xinyu Chen, Haoran Chen, Zizheng Huang, Jun Zhang, Kun Ouyang, Lin Sui, Ziang Yan, Yicheng Xu, Chenting Wang, Yinan He, Hongjie Zhang, Yi Wang, Yu Qiao, Yali Wang, Ziwei Liu, Kai Chen, Limin Wang*<br>
+arXiv, 2026.[[code]](https://github.com/MCG-NJU/VideoChat3)
+
+2. **OneStreamer**: [OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction](https://arxiv.org/abs/2610.01762)<br>
+*Xiangyu Zeng, Yuandong Yang, Zhiqiu Zhang, Yuhan Zhu, Xinhao Li, Qingyi Si, Dingyu Yao, Changlian Ma, Haoran Chen, Xinyu Chen, Yansong Shi, Junhao Zhou, Yifei Li, Jun Zhang, Chuanyu Qin, Chenxu Yang, Xinlei Yu, Kun Ouyang, Yuchen Shao, Qianshan Wei, Changhai Zhou, Jun Gao, Jiaqi Wang, Limin Wang*<br>
+arXiv, 2026.[[code]](https://github.com/MCG-NJU/OneStreamer)
 
 ## Dense-Captioning
 1. [Dense-Captioning Events in Videos](http://openaccess.thecvf.com/content_ICCV_2017/papers/Krishna_Dense-Captioning_Events_in_ICCV_2017_paper.pdf)<br>
